@@ -1,6 +1,5 @@
 ## Oii eu me chamo Stephanie, Seja bem vindo(a) ao meu perfil!
 
-Olá! Meu nome é Stephanie e eu sou uma programadora full stack em constante evolução. Atualmente estou estudando programação e tenho uma paixão por tecnologia. Eu busco sempre estar atualizada com as últimas tendências e ferramentas disponíveis e estou comprometida em aprimorar minhas habilidades em todas as camadas do desenvolvimento web, desde o front-end até o back-end. Sou dedicada e comprometida em adquirir novos conhecimentos e habilidades, e estou animada para compartilhar meu conhecimento e colaborar em projetos desafiadores. Se você estiver procurando por um membro da equipe comprometido e apaixonado por tecnologia, por favor, sinta-se livre para entrar em contato comigo.
 <div align="center">
   <a href="https://github.com/stephaniebanutti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephaniebanutti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

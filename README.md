@@ -23,5 +23,5 @@ Sou programadora full stack em constante evolução. Atualmente estou estudando 
   <a href="https://www.linkedin.com/in/stephanie-banutti-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
-![snake animation](https://github.com/stephaniebanutti/stephaniebanutti/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/stephaniebanutti/stephaniebanutti/blob/output/github-contribution-grid-snake.svg)
 </div>
